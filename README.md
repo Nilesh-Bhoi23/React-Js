@@ -1,8 +1,8 @@
 ## React Js
 <hr><i> <b>
-1) My First React Code
-2) Props and JSX
-3) Hooks & State in React 
+1) My First React Code                     <br>
+2) Props and JSX                           <br>
+3) Hooks & State in React                  <br>
 
 
 
