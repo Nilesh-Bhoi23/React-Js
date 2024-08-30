@@ -5,9 +5,10 @@
   
 2) Props and JSX:-                         
    Props :- Props(short for "properties") are read-only inputs that are passed to Components.they allow you to pass data and event handlers to Child Components.
-3) Hooks & State in React                  <br>
-4) useEffect                               <br>
-5) useRef()                               <br>
+   JSX:- JSX is a syntax extension that looks similar to HTML and is used to describe the UI. It makes it easier to write and visualize the structure of your components.
+4) Hooks & State in React                  <br>
+5) useEffect                               <br>
+6) useRef()                               <br>
 
 
 </b>
