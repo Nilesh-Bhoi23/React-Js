@@ -8,7 +8,7 @@
    JSX:- JSX is a syntax extension that looks similar to HTML and is used to describe the UI. It makes it easier to write and visualize the structure of your components.
 4) Hooks & State in React                 
   Hooks:- Hooks are special functions that let you "hook into" React's state and lifecycle features from functional components.
-  State :-
+  State :- State is an object that determines how a component renders and behaves. it is mutable and can e changed over time .triggering a re-render of the component.
 6) useEffect                               <br>
 
 7) useRef()                               <br>
