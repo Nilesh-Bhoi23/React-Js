@@ -12,7 +12,8 @@
 
 6) useEffect() :- Handles side effects like data fetching, subscriptions, or manually updating the DOM.                               <br>
 
-7) useRef() :-                                <br>
+7) useRef() :-  useRef is a React hook that returns a mutable ref object. This object has a single property, current, which can be initialized with a value (or null by default).
+                               <br>
 
 
 </b>
