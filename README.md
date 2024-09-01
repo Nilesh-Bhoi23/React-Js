@@ -9,9 +9,10 @@
 4) Hooks & State in React                 
   Hooks:- Hooks are special functions that let you "hook into" React's state and lifecycle features from functional components.
   State :- State is an object that determines how a component renders and behaves. it is mutable and can e changed over time .triggering a re-render of the component.
-6) useEffect                               <br>
 
-7) useRef() :- Handles side effects like data fetching, subscriptions, or manually updating the DOM.                               <br>
+6) useEffect() :- Handles side effects like data fetching, subscriptions, or manually updating the DOM.                               <br>
+
+7) useRef() :-                                <br>
 
 
 </b>
