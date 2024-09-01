@@ -11,7 +11,7 @@
   State :- State is an object that determines how a component renders and behaves. it is mutable and can e changed over time .triggering a re-render of the component.
 6) useEffect                               <br>
 
-7) useRef()                               <br>
+7) useRef() :- Handles side effects like data fetching, subscriptions, or manually updating the DOM.                               <br>
 
 
 </b>
