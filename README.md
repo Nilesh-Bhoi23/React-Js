@@ -14,6 +14,7 @@
 
 7) useRef() :-  useRef is a React hook that returns a mutable ref object. This object has a single property, current, which can be initialized with a value (or null by default).
                                <br>
+8) Conditional Rendering & Rendering Lists in React <br>
 
 
 </b>
