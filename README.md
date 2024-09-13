@@ -16,6 +16,14 @@
                                <br>
 8) Conditional Rendering & Rendering Lists in React <br>
 
+9) EventHandling:- An event in programming, particularly in JavaScript and React, refers to an action or occurrence that takes place in the browser or application that can be detected and responded to. Events are typically triggered by user interactions such as:
+
+Clicking a button
+Typing on the keyboard
+Hovering over an element
+Submitting a form
+Scrolling a page
+
 
 </b>
 </i>
