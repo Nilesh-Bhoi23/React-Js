@@ -24,6 +24,20 @@ Hovering over an element <br>
 Submitting a form <br>
 Scrolling a page <br>
 
+<br>
+8) Router: A component that manages the navigation and rendering of routes. In React, the BrowserRouter (or simply Router) is a common router that uses the HTML5 history API to keep the UI in sync with the URL.
+
+Route: A component that defines a path and associates it with a specific component. When the URL matches the path, the associated component is rendered.
+
+Switch (deprecated in React Router v6, replaced by Routes): A component that renders the first Route or Redirect that matches the current URL.
+
+Link: A component used to create navigational links that update the URL without causing a page refresh.
+
+Navigate: A component or hook used to programmatically navigate to different routes.
+
+History: An object that keeps track of the browser’s history and allows navigation through the history stack (used internally by routers to manage navigation).
+
+Dynamic Route: A route that includes parameters in the path, which can be used to render content based on those parameters.
 
 </b>
 </i>
