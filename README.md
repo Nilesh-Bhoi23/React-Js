@@ -25,6 +25,7 @@ Submitting a form <br>
 Scrolling a page <br>
 
 <br>
+
 8) Router: A component that manages the navigation and rendering of routes. In React, the BrowserRouter (or simply Router) is a common router that uses the HTML5 history API to keep the UI in sync with the URL.
 
 Route: A component that defines a path and associates it with a specific component. When the URL matches the path, the associated component is rendered.
