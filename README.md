@@ -37,7 +37,15 @@ Navigate: A component or hook used to programmatically navigate to different rou
 
 History: An object that keeps track of the browser’s history and allows navigation through the history stack (used internally by routers to manage navigation).
 
-Dynamic Route: A route that includes parameters in the path, which can be used to render content based on those parameters.
+Dynamic Route: A route that includes parameters in the path, which can be used to render content based on those parameters. <hr><br>
+9) In React, Context is a feature that allows you to share values or state between different components in your application without having to pass props down manually at every level. This can be especially useful for things like global settings, themes, or user authentication information that many components need to access.
 
+Key Concepts of React Context:
+Creating a Context:
+
+You create a context using React.createContext(). This method returns a Context object, which has two components: a Provider and a Consumer.
+Provider:
+
+The Provider component is used to wrap the part of your application that needs access to the context. It accepts a value prop, which will be passed down to any component that consumes this context
 </b>
 </i>
