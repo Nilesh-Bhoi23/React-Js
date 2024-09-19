@@ -47,5 +47,9 @@ You create a context using React.createContext(). This method returns a Context 
 Provider:
 
 The Provider component is used to wrap the part of your application that needs access to the context. It accepts a value prop, which will be passed down to any component that consumes this context
+
+useContext Hook:
+
+In functional components, you can use the useContext hook to consume context values more easily, without needing to use the Consumer component.
 </b>
 </i>
